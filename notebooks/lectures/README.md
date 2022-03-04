@@ -7,3 +7,5 @@ Currently, we have:
 ## SKLearn - Feature Scaling and Categorical Variables: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/diego898/cs3262-sp22/blob/main/notebooks/lectures/SKLearn-Feature-Scaling-Categorical.ipynb)
 
 ## SVMs: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/diego898/cs3262-sp22/blob/main/notebooks/lectures/SVM.ipynb)
+
+## Bias and Variance: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/diego898/cs3262-sp22/blob/main/notebooks/lectures/Bias-and-Variance.ipynb)
